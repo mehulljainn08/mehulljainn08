@@ -20,7 +20,7 @@
 
 I'm a third-year Computer Science student at **Sardar Vallabhbhai National Institute of Technology, Surat** with a strong passion for engineering innovation and building scalable backend systems.I have hands-on experience developing applications using **Java**, **Spring Boot**, **Microservices**, and **Docker**.
 
-- 🚀 As the **Technical Lead** at [Nexus](https://www.nexus-svnit.in), my department's official technical cell, I design and manage backend architecture serving **800+ users** and mentor a team of junior developers.
+- 🚀 As the **Technical Lead** at [Nexus](https://www.nexus-svnit.in), my department's official cell, I design and manage backend architecture serving **800+ users** and mentor a team of junior developers.
 - 🔭 I’m currently diving deep into distributed systems and cloud-native technologies.
 
 ---
